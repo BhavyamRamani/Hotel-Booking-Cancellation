@@ -3,6 +3,7 @@
 👨‍💻 Contributors
 
 Aryan Singh
+
 Bhavyam Ramani
 
 📌 Project Overview
